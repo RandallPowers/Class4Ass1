@@ -5,7 +5,7 @@ output:
     keep_md: true
 ---
 
-```{r xxx, echo=FALSE}
+```{r xxx, echo=TRUE}
 #read in dataset
 data_all <- read.csv('activity.csv')
 
